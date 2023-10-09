@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('../img/bg.jpg');
+    background-size: cover;
+}
+
+.box {
+    width: 800px;
+    background: rgba(0, 0, 0, .4);
+    padding: 50px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 2%;
+    color:white;
+    border-radius: 30px;
+}
+
+.box-img{
+    border-radius: 50%;
+}
+
+.box h2 {
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+
